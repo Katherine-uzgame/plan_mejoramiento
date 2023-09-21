@@ -1,0 +1,45 @@
+1. Elabora un algoritmo que dada una temperatura en grados centigrados la combierta en grados farengeid 
+
+grados farengeid = grados centigrados 1.8 + 32
+
+2. El indice de masa corporal es el peso en kilogramos dividido por la estatura en metros cuadrados 
+
+imc = peso sobre estatura 
+
+Elabora un algoritmo que calcule el imc de una persona 
+
+3. Elabore un algoritmo que le muestre al usuario si el numero egresado por el es par o no 
+
+4. El señor Rafael salió de compras compró en el almacen costa azul donde habia descuento del 14% sobre el valor de su compra. Ahí compró una camisa por $35.000 y un pantalón por $75.000. Luego fue a Tigo y compró un celular por $900.000. Elabora un algoritmo que muestre el subtotal de la compra, el descuento y el total de la compra en el almacen costa azul. Tambien debe mostrar cual fue el total de la compra del señor Rafael
+
+5. Elabora un algoritmo que al introducir dos numeros enteros N y D, determine si N es divicible por dos D, si N es divicible por D o si N no es divicible ni por D ni por dos D. Si el numero N es divicible por dos D, mostrará como resultado 2, Si el numero N es divicible entre D pero no dos D mostrará como resultado 1 de lo contrario mostrará 0
+
+6. En el taller de regalos de santa claus el ceo de tecnología a decidido implementar un nuevo sistema de clasificación de regalos, para facilitar su organización, cada paquete tiene ahora un identificador numerico unico. El identificador es un numero entero entre 10 y 9.999 y sirve para clasificar los regalos de la siguiente manera: 
+
+- Si el numero es de dos sifras e impar el regalo corresponde a una niña.
+
+- Si el numero es de dos sifras y par el regalo corresponde a un niño.
+
+- Si el numero es par pero mayor a tres sifras el regalo corresponde a un hombre.
+
+- Si el numero es impar pero es de tres sifras el regalo corresponde a una mujer.
+
+El algoritmo debe identificar para quien es el regalo de acuerdo al identificador del paquete.
+
+7. Modifica el segundo algoritmo Para calcular el imc de un grupo de personas. 
+
+8. Modifica el punto 7 para que muestre el promedio y el imc mas alto
+
+9. Elabora un algoritmo que muestra el usuario las siguientes opciones:
+
+Indice de masa corporal, porcentaje de grasa corporal y tasa metabolica basado. El algoritmo debe permitir que el usuario escoja la opción y de acuerdo a la opción realice los calculos correspondientes y le muestre el resultado.
+
+imc = peso sobre la estatura 
+
+peso en kilogramos estatura en metros cuadrados 
+
+porcentaje de masa corporal debe tener en cuenta que en el valor del genero depende si es masculino o femenino. Masculino = 10.8 Femenino = 0 el porcentaje de masa corporal es igual a 1.2 *imc + 0.23 por la edad menos 5.4 menos el valor del genero la tasa metabolica basal el valor del genero depende si es Masculino o Femenino Masculino es = 5 y Femenino = -161
+
+10*peso en kg + 6.25 * altura cm - 5 por la edad + el valor del genero
+
+10. Usted quiere anticipar el movimiento del nuevo robot que recibió como regalo de cumpleaños. El robot viene con la brujula interna que le permite saber hacia que punto cardinal esta mirando actualmente: N, S, E, O. ademas el robot tiene un control remoto que permite girarlo a la derecha o hacia la izquierda, y tambien pedirle que dé media vuelta. Usted debe escribir un algoritmo que dados tres comandos que se envian por control remoto calcule la orientación final del robot 
